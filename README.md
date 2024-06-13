@@ -1,6 +1,6 @@
 # **Revolutionizing Automated Trading With Algo Exhange Trading** 
 
-
+![Algo Exchange Trading Logo](AET.jpg)
 
 ## Overview and Origin
 
