@@ -1,5 +1,7 @@
 # **Revolutionizing Automated Trading With Algo Exhange Trading** 
 
+
+
 ## Overview and Origin
 
 * [Algo Exchange Trading](https://www.algoexchange.com/) was founded in 2023 by Austin Alhajj in Florida who had the idea of developing an algorithmic and automated trading platform for retail and institutional traders. As do all startups, this company took a lot of time for Austin to develop over the years leading up to launch. Funding was found through his own capital as an experienced retail trader and from his business venture of successfully building a working space for traders called The Trade Club. With the original intent of creating a automated platform, Austin and his team have developed multiple algorithims from his past trading data and personal experience to adapt to the traders current plan to minimize trading emotions.
